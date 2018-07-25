@@ -1,0 +1,110 @@
+.header-title {
+	width: 50%;
+    float: left;
+    margin-left: 10%;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.listsearch {
+	width: 100%;
+    background-color: #26A69A;
+    font-size: 24px;
+    color: white;
+}
+.wrapper-usersearch {
+	border: 1px solid black;
+}
+.content {
+    margin-top: 5%;
+    border: 1px solid black;
+}
+.header-title h4 {
+ 	font-size: 30px;
+    margin-top: 15px;
+}
+.heading-elements {
+	width: 30%;
+	float: right;
+	margin-top: 15px;
+}
+.heading-elements a {
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	margin-left: 10px;
+	border-radius: 5px;
+    text-align: center;
+}
+.heading-elements a:link, a:visited, a:hover, a:active{
+ 	text-decoration: none;
+}
+.heading-elements a:hover{
+	background-color: #d9d9d9;
+	transition-delay: 0.15s;
+}
+.heading-elements a i {
+	 font-size: 30px;
+	 margin: 0 auto;
+	 display: block;
+	 padding-top: 2px;
+}
+.clear {
+    clear: both;
+}
+.content-wrapper {
+    border-radius: 5px;
+    padding: 20px;
+    width: auto;
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 1px solid black;
+}
+.content-lable label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: #26A69A;
+    border-radius: 5px;
+    width: 13%;
+    padding-left: 15px;
+    color: white;
+    font-weight: lighter;
+    font-size: 16px;
+}
+.content-lable .label_riright{
+	    margin-left: 36px;
+}
+.content-lable select {
+	width: 10%;
+}
+.content-title {
+	width: 100%;
+    background-color: #26A69A;
+    font-size: 24px;
+    color: white;
+}
+.parse-title h3 {
+	float: left;
+	font-size: 12px;
+	font-weight: lighter;
+}
+.container .pagination {
+	float: right;
+	margin-top: 10px;
+}
+.wrapper-usersearch table tr td {
+    word-break: break-word;
+    width: 80px;
+}
+.content-title {
+    margin-top: 30px;
+}
+.modal-header h4 {
+    float: left;
+}
+.modal-header button {
+    float: right;
+}

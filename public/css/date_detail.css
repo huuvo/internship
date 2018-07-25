@@ -1,0 +1,91 @@
+.header-title {
+	width: 30%;
+    float: left;
+    margin-left: 40px;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.header-title h4 {
+ 	font-size: 35px;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+.heading-elements {
+	width: 60%;
+	float: right;
+	margin-top: 15px;
+	margin-right: 40px;
+}
+.heading-elements a {
+	display: inline-block;
+	width: 65px;
+	height: 60px;
+	margin-left: 15px;
+	border-radius: 5px;
+    text-align: center;
+}
+.heading-elements a:link, a:visited, a:hover, a:active{
+ 	text-decoration: none;
+}
+.heading-elements a:hover{
+	background-color: #d9d9d9;
+	transition-delay: 0.15s;
+}
+.heading-elements a i {
+	 font-size: 30px;
+	 margin: 0 auto;
+	 display: block;
+	 padding-top: 2px;
+}
+.heading-elements a span {
+ 	color: black;
+ 	display: block;s
+ 	margin-top: 10px;
+}
+.clear {
+    clear: both;
+}
+.content-wrapper {
+    border-radius: 5px;
+    padding: 20px;
+    width: auto;
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 1px solid black;
+}
+.content-title {
+	border-bottom: 1px solid;
+}
+.content-title .title-off{
+	width: 25%;
+    background-color: #26A69A;
+    font-size: 24px;
+    color: white;
+}
+.content-lable label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 15px;
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: #26A69A;
+    border-radius: 5px;
+    width: 15%;
+    padding-left: 15px;
+    color: white;
+    font-weight: lighter;
+    font-size: 20px;
+}
+.content-lable input {
+	margin-left: 10px;
+}
+.content-lable select  {
+	margin-left: 10px;
+	
+}
+.content-lable textarea  {
+	margin-left: 10px;
+	width: 70%;
+	border-radius: 10px;
+}
